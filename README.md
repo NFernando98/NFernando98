@@ -1,5 +1,5 @@
-### Hi 👋, I'm Nishith Fernando
-Software Developer prev @ Midaflow | York University CS
+<h3>Hi 👋, I'm Nishith Fernando</h3><span>Software Developer prev @ Midaflow | York University CS</span>
+
 - I've been primarily coding on Python for ML and leetcoding, and Typescript for web development in recent years
 
 ### 💻 Tech Stack:
