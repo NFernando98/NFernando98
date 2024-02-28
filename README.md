@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nishith Fernando  
+## Hi 👋, I'm Nishith Fernando  
 
 I've been primarily coding on Python for ML projects and leetcoding, Typescript for web development and C++ for Arduino embedded system projects
 
