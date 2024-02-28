@@ -8,7 +8,6 @@ I've been primarily coding on Python for ML projects and leetcoding, Typescript 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NFernando98&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NFernando98&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NFernando98&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nishith-fernando/) 
